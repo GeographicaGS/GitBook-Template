@@ -1,0 +1,2 @@
+# This is a file similar to .gitignore. .gitignore can also be used, but it's better to have
+# a .bookignore just in case we include a GitBook inside a normal GIT repository.
