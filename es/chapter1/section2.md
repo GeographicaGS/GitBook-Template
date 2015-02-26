@@ -1,1 +1,1 @@
-## Chapter 1 Section 2
+## Capítulo 1 Sección 2
